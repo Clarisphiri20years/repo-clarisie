@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CURRICULUM VITAE FOR CLARIS PHIRI</title>
+</head>
+<style>
+    p
+    {
+        border:5px solid greenyellow;
+        background-color:pink;
+    }
+    body{
+        background-image:url(IMG-20230318-WA0004.jpg);
+        background-repeat :no-repeat;
+        background-attachment :fixed;
+        background-size : 100% 100%
+    }
+</style>
+<p>
+<body>
+    <centre>
+        <h1>
+            <div style="background-color: pink;color:rgb(17, 17, 16);padding:05px;">
+            <u> MY CURRICULUM VITAE </u>
+        </h1>
+    </centre>
+    <h2>ABOUT</h2>
+    <h3> CLARIS PHIRI </h3>
+    <h4> Pursuing A Barchelor's Degree In Information Security And Assuarance At Harare Institute of Tecnology</h4>
+    <img src="MYXJ_20220613190943883_save.jpg" width="100" height="100" space="300" align="left">
+    <h5>Waterfalls Harare, Zimbabwe</h5>
+    <h5>pclarisy@gmail.com</h5>
+    <h5>Contact NUmbers : +263718 331138</h5>
+    <h2>
+            <div style="background-color: pink;color:rgb(17, 17, 16);padding:05px;">
+        <u>CAREER OBJECTIVES</u>
+        </h2>
+        <h3> To succeed in an environment of growth and excellence 
+            <br> and earn a job which provides me job satisfication and 
+            <br> self development and help me archive  persornal as well
+             <br> as organisational goals. 
+ </h3>
+ >
+    <h2>
+        <div style="background-color: pink;color:rgb(17, 17, 16);padding:05px;">
+     <u>ACADEMIC QUALIFICATION</u>
+     </h2>
+     <table boder="4" width="900">
+        <tr>
+          <th> Qualifications </th>  
+          <th> School </th>
+          <th>Year of Passing</th>
+          <th>Results </th>
+          
+        </tr>
+         <tr>
+            <th> Ordinary Level</th>
+            <th>Wanganui high</th>
+            <th>2019</th>
+            <th>10 subjects</th>
+         </tr>
+         <tr>
+            <th> Advanced Level</th>
+            <th>Lord Malvern high</th>
+            <th>2021</th>
+            <th> 10 points</th>
+         </tr>  
+         <th>Bachelor's Degree In ISA</th>
+         <th> HIT</th>
+         <th>2026</th>
+         <th>......</th>
+        </tr>
+        </table>
+        <h2>
+<div style="background-color:pink;color:rgb(17, 17, 16);padding:05px;">
+                <u> Attributes</u>
+            </h2>
+            <ul>
+                <b>
+                    <h3>
+                        <li>Good Communication and inter-personal skill
+                            <li>Focused and Confident
+                                <li>Self Motivated</li>
+                    </h3>
+            </ul>
+            <h2>
+                <div style="background-color: pink;color:rgb(17, 17, 16);padding:05px;">
+                <u>PERSONAL DETAILS</u>
+                </div>
+                <ul>
+                    <b>
+                        <h3>
+                             <li>Name: Claris Phiri
+                                    <li>Martial Status: Single
+                                        <li>Hobbies :</li>
+                                                          <ul>
+                                                            <li>Reading
+                                                                <li>Computer games
+                                                                    <li>Social media</li>
+
+                                                          </ul>
+                                        
+                            </li>
+                        </h3>
+                    </ul>
+                    <a href="index.html" target_self title="Download the CV">DOWNLOAD</a>
+                </body>
+                </p>
+</html>
